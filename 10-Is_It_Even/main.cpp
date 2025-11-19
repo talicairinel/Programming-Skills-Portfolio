@@ -4,7 +4,7 @@ int main() {       // Entry point
     int number; 
 
     std::cout << "Enter an integer: ";  // Print out Enter an integer
-    std::cin >> number;      // Get input from the user
+    std::cin >> number;       // Get input from the user
 
     // The modulus operator (%) finds the remainder of a division.
     if (number % 2 == 0) {
