@@ -1,22 +1,33 @@
-[README.md](https://github.com/user-attachments/files/23636092/README.md)
-# Programming Skills Portfolio 
+CodeLab I: Programming Skills Portfolio
 
-**Student:** IRINEL TALICA  
-**GitHub Repository:** https://github.com/talicairinel/Programming-Skills-Portfolio
+This repository contains the completed C++ coding exercises for the CodeLab I module's Programming Skills Portfolio assessment. The goal of this portfolio is to demonstrate proficiency in fundamental C++ programming techniques, including variables, input/output, conditional logic, iteration (loops), functions, and basic data structures (arrays/vectors).
 
-## Structure
-```
-ProgrammingSkillsPortfolio_CPP_LineComments/
-├── 01-Coding_Is_Cool/
-├── 02-Simple_Sums/
-├── 03-Biography/
-├── 04-Primitive-Quiz/
-├── 05-Days_Of_The_Month/
-├── 06-Brute_Force_Attack/
-├── 07-Some_Counting/
-├── 08-Simple_Search/
-├── 09-Hello/
-└── 10-Is_It_Even/
-```
+📂 Repository Structure
+
+All required exercises are organized within the designated folder structure, with each exercise contained in its own folder named according to the assignment brief.
 
 
+Programming Skills Portfolio
+    ├── 01-CodingIsCool/
+    ├── 02-SimpleSums/
+    ├── 03-Biography/
+    ├── 04-PrimitiveQuiz/
+    ├── 05-DaysOfTheMonth/
+    ├── 06-BruteForceAttack/
+    ├── 07-SomeCounting/
+    ├── 08-SimpleSearch/
+    ├── 09-Hello/
+    └── 10-IsItEven?/
+
+
+
+
+✅ Submission Checklist
+
+
+
+[ ] Code Push: All 10 exercise folders are present and up-to-date in the Programming Skills Portfolio folder.
+
+[ ] Commit Messages: All commits are descriptive.
+
+[ ] Certificate: The SoloLearn Introduction to C++ course certificate (file upload and unique URL) has been submitted.
