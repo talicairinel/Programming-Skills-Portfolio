@@ -1,6 +1,7 @@
 
 
 #include <iostream>         
+using namespace std;
 
 int main() {                 
     int pin = 0;               // Secret PIN provided by user
