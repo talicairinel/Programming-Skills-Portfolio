@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+using namespace std;
 
 // This is a user-defined function. It encapsulates the greeting logic.
 void printGreeting(std::string name) {
