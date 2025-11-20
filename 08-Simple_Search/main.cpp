@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main() {
     int numbers[] = {15, 8, 22, 10, 5, 30}; // Defines array.
