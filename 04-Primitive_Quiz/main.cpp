@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main() {
     int answer; // This variable will store the user input.
