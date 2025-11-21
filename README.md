@@ -6,11 +6,11 @@
 - **Name:** Irinel Talica  
 - **Course Title:** CODE LAB I
 - **GitHub Repository:** https://github.com/talicairinel/Programming-Skills-Portfolio
-
+- **Sololearn Certificate link**  https://www.sololearn.com/certificates/CC-UVDUURUI
 ---
 
 ## 🎯 Overview
-This repository contains a **Programming Skills Portfolio** implemented in C++. Each exercise demonstrates fundamental programming concepts (variables, I/O, conditionals, loops, searching) and includes **clear comments** to support learning and assessment.
+The repository presents a **Programming Skills Portfolio** as implemented in C++. Every exercise illustrates concepts of basic programming: variables, I/O, conditionals, loops, and searching. In addition, there are **clear comments** to support learning and assessment.
 
 ---
 
@@ -50,12 +50,6 @@ cd ProgrammingSkillsPortfolio_CPP\01-CodingIsCool
 g++ -std=c++17 -Wall -Wextra -pedantic main.cpp -o CodingIsCool.exe
 ./CodingIsCool.exe
 ```
-
-> Repeat for each folder, changing the path and output name as needed.
-
----
-
-
 
 ## 🧪 Testing Checklist (selected)
 
