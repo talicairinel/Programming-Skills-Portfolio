@@ -36,7 +36,6 @@ ProgrammingSkillsPortfolio_CPP/
 
 ### macOS / Linux
 ```bash
-# Example: build and run exercise 01
 cd ProgrammingSkillsPortfolio_CPP/01-CodingIsCool
 g++ -std=c++17 -Wall -Wextra -pedantic main.cpp -o CodingIsCool
 ./CodingIsCool
