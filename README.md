@@ -9,12 +9,12 @@
 - **Sololearn Certificate link**  https://www.sololearn.com/certificates/CC-UVDUURUI
 ---
 
-## 🎯 Overview
+##  Overview
 The repository presents a **Programming Skills Portfolio** as implemented in C++. Every exercise illustrates concepts of basic programming: variables, I/O, conditionals, loops, and searching. In addition, there are **clear comments** to support learning and assessment.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 ```
 ProgrammingSkillsPortfolio_CPP/
 ├── 01-CodingIsCool/        # Console output basics
