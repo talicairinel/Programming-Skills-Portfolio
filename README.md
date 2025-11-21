@@ -51,7 +51,7 @@ g++ -std=c++17 -Wall -Wextra -pedantic main.cpp -o CodingIsCool.exe
 ./CodingIsCool.exe
 ```
 
-## 🧪 Testing Checklist (selected)
+## 🧪 Testing Checklist 
 
 ### 01 — CodingIsCool
 - ✅ Prints exactly the expected message.
