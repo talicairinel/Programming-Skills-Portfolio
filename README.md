@@ -2,11 +2,11 @@
 
 
 
-## 👤 Student & Module Info
+##  Student & Module Info
 - **Name:** Irinel Talica  
 - **Course Title:** CODE LAB I
 - **GitHub Repository:** https://github.com/talicairinel/Programming-Skills-Portfolio
-- **Sololearn Certificate link**  https://www.sololearn.com/certificates/CC-UVDUURUI
+- **Sololearn Certificate: link**  https://www.sololearn.com/certificates/CC-UVDUURUI
 ---
 
 ##  Overview
@@ -32,7 +32,7 @@ ProgrammingSkillsPortfolio_CPP/
 
 ---
 
-## 🛠 How to Compile & Run
+##  How to Compile & Run
 
 ### macOS / Linux
 ```bash
@@ -50,7 +50,7 @@ g++ -std=c++17 -Wall -Wextra -pedantic main.cpp -o CodingIsCool.exe
 ./CodingIsCool.exe
 ```
 
-## 🧪 Testing Checklist 
+##  Testing Checklist 
 
 ### 01 — CodingIsCool
 - ✅ Prints exactly the expected message.
